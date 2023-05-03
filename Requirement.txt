@@ -1,4 +1,0 @@
-numpy is a fundamental package for scientific computing with Python and is used extensively in this code for numerical computations.
-streamlit is the web application framework used to create the user interface for the speech emotion recognition system.
-librosa is a Python package for music and audio analysis and is used in this code for feature extraction from audio files.
-soundfile is a Python package for reading and writing sound files and is used in this code to load the uploaded audio file.
